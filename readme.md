@@ -16,8 +16,9 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=golu380&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-
+<!---
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+---!>
 
 <!-- Intro  -->
 <h3 align="center">
@@ -134,4 +135,4 @@
 </a>
 
 
-![Amit's Graph](https://github-readme-activity-graph.vercel.app/graph?username=golu380&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Amit's Graph](https://github-readme-activity-graph.vercel.app/graph?username=golu380&custom_title=Amit%20's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
