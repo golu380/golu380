@@ -22,38 +22,38 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://golu380.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://golu380.com">Amit</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a full stack web application developer from <b>India</b> 」
     <br>
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://golu380.com" target="blank">
+ <a href="" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="golu380" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://www.linkedin.com/in/amit-kumar-dubey/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="golu380"/>
  </a>
  <!-- <a href="https://dev.to/golu380" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="golu380" />
  </a> -->
- <a href="https://twitter.com/_golu380" target="_blank">
+ <a href="https://twitter.com/@AmitKum51117012" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/_golu380" target="_blank">
+ <a href="https://instagram.com/am_amit_dubey" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="golu380" />
  </a> 
- <a href="https://facebook.com/golu380.dev" target="_blank">
+ <a href="https://facebook.com/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="golu380"  />
   </a> 
 </p>
@@ -67,7 +67,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: golu380.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: amitkumardubey744@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/golu380/golu380/issues)
 
 </p>
@@ -102,10 +102,10 @@
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=golu380&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/golu380/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=golu380&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/golu380/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=golu380&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/golu380/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=golu380&repo=golu380&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/golu380/golu380)
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=golu380&repo=AGRITech-_frontend&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/golu380/itasks)
+[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=golu380&repo=Preneur-ship-fruntend&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/golu380/urfolio)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=golu380&repo=preneurship_backend_django&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/golu380/web-projects)
+[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=golu380&repo=Codding_Question&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/golu380/golu380)
 
 <p align="left">
   <a href="https://github.com/golu380?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
